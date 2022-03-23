@@ -5,6 +5,9 @@
   right: 0;
   top: 50%;
   transform: translateY(-50%);
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
 }
 
 .container strong {
@@ -21,4 +24,35 @@
 
 .container a {
   text-decoration: none;
+}
+.title{
+  font-size: 2rem;
+  font-weight: bold;
+}
+.small-text{
+  font-size: 1rem;
+}
+.date{
+  max-width: 10rem;
+  padding: 10px 10px;
+  height: 2rem;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1rem;
+  font-weight: bold;
+  margin-bottom: .2rem;
+}
+ion-button{
+  --background: #b92714;
+  --color: #FFF;
+}
+.button-text{
+  font-size: 1rem;
+  font-weight: bold;
+  margin-top: 1rem;
+}
+.datepicker{
+  margin: 0 auto;
 }
