@@ -1,8 +1,10 @@
 # Assignment-4
 
+Built with Ionic & React frameworks
+
 ## Date Picker App
 This app serves the purpose of displaying a calendar and selecting a date. Then the selected date can be used to do anything.
-In this app for demonstration purposes, the date is just displayed on the screen.
+In this app, for demonstration purposes, the date is just displayed on the screen.
 
 ### Components
     • ExploreContainer
